@@ -1,5 +1,7 @@
 # NirangNaerang
-for dnd project
+DND-니랑내랑 프로젝트를 위한 Repository 입니다. 
+
+This repository is for dnd project.
 
 master : 제품으로 출시될 수 있는 브랜치
 
